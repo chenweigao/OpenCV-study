@@ -134,7 +134,7 @@
     <ResourceCompile Include="OpenCV-study.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mat_study.cpp" />
+    <ClCompile Include="scan_image.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

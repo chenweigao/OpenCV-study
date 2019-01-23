@@ -25,7 +25,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mat_study.cpp">
+    <ClCompile Include="scan_image.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
